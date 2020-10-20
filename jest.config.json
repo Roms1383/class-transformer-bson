@@ -1,0 +1,8 @@
+{
+  "verbose": true,
+  "transform": {
+    "^.+\\.(t|j)s$": "ts-jest"
+  },
+  "testRegex": ".(spec|test).ts$",
+  "testEnvironment": "node"
+}
